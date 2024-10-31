@@ -5,6 +5,7 @@
 ## Tools and Technologies:
 - Python
 - Jupyter Notebooks
+- Statistical Analysis
 
 ## Data:
 - Stock market data used through API to `vnstock` package
